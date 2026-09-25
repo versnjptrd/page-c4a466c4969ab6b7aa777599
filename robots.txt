@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.1998ok.cn/sitemap.xml
